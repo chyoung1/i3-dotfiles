@@ -12,8 +12,7 @@ Arch i3 dotfiles.
 
 ### Dependencies
 
-
-Install following programs on your system before you use these themes.
+Install following programs.
 
 - **`Polybar`** : The unixporn bar
 - **`Rofi`** : For App launcher
